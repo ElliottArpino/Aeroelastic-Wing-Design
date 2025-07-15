@@ -9,8 +9,8 @@ This project analyzes and designs a cantilever wing using static aeroelastic pri
 - Divergence speed: > 150 m/s
 
 ## Contents
-- [Final Report (PDF)](./AER722_project_1_report.pdf)
-- [MATLAB Code ](project_code/)
+- [Final Report (PDF)](./AER722_project_1_report.pdf) – Full technical report detailing objectives, methods, analysis, and conclusions
+- [MATLAB Code ](./project_1_code.m) - Scripts used to compute divergence pressure, twist, lift distribution, and aileron effectiveness 
 
 ## Authors
 - Elliott Arpino
