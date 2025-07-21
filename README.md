@@ -14,7 +14,12 @@ The goal is to satisfy key constraints on lift capacity, divergence speed, wing 
 ## Contents
 - **[Final Report](./AER722_project_1_report.pdf)** – methodology, analysis & results  
 - **[MATLAB Code](./project_1_code.m)** – divergence pressure, twist, lift distribution, aileron effectiveness  
-- **[plots/](./plots/)** – all output figures (dynamic-pressure convergence, twist distribution, lift curves, etc.)
+- **[plots/](./plots/)** – all output figures
+
+### All Plots
+- [Divergent Dynamic Pressure vs Number of Modes](plots/div_dynamic_pressure_vs_modes.png)
+- [Lift Distribution – Elastic vs Rigid](plots/lift_distribution.png)
+- [Rolling Power vs Aileron Chord](plots/rolling_power_vs_chord.png)
 
 ## Authors
 - Elliott Arpino  
